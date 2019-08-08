@@ -1,5 +1,5 @@
 # wallstreet-club
-program to physically check a finance based question.
+program to simulate a finance based question to find an optimal solution.
 
 The aim is to find the optimal fees for a game with the intention of getting most possible profits to the seller/owner.
 the game being that you roll a pair of dice and if you don't like the first outcome you can roll just once more. The payoff is whatever turns out to be the sum of the pair i.e. if you roll a 7 (2,5) you get Rs. 7. However, if you roll a 12 (6,6) you need to go again
